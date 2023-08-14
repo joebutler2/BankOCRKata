@@ -18,3 +18,9 @@ Here is how you can run it with one of the test files:
 ```
 ./gradlew run --args="/Users/jbutler/code/interviews/BankOCR/src/test/resources/simple_account_numbers.txt"
 ```
+
+Here is the command to run the test file for "Use Case 3".
+
+```
+./gradlew run --args="/Users/jbutler/code/interviews/BankOCR/src/test/resources/use-case-3.txt"
+```
